@@ -8,7 +8,7 @@ body{
 }
 
 #cabecera{
-    background: #33f;
+    background: #393f;
     color: white;
     margin: 0;
     padding: 0.5em;
@@ -19,7 +19,7 @@ body{
 #cabecera #tagline{
     font-weight: normal;
     font-size: .8em;
-    padding: 0 0 0 1em;
+    padding: 0 0 0 1.5em;
 }
 
 #container{
